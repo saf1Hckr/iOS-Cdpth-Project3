@@ -8,7 +8,7 @@ Time spent: **7** hours spent in total
 
 ## Required Features
 
-The following **required****** functionality is completed:
+The following **required** functionality is completed:
 
 - [✅] User can view the current question and 4 different answers
 - [✅] User can view the next question after tapping an answer
